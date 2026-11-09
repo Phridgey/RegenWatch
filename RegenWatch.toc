@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: RegenWatch
+## Notes: An on-screen number showing the health your last regeneration tick gave you (heals, potions and food excluded).
+## Author: Phridgey
+## Version: 1.0
+## SavedVariablesPerCharacter: RegenWatchDB
+RegenWatch.lua
